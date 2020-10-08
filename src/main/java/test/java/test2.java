@@ -5,7 +5,7 @@ package test.java;
 import org.junit.Assert;
 import org.junit.Test;
 
-import main.java.Calculator;
+import main.Calculator;
 
 /* Создание класса, содержащего код теста */
 public class test2 {
