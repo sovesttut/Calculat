@@ -1,4 +1,4 @@
-package main.java;
+package main;
 
 /* Подключаем библиотеки для работы с текстовыми полями, метками, для создания графического окна */
 import java.awt.BorderLayout;
