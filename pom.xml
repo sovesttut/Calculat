@@ -29,7 +29,7 @@
         <version>1.6.0</version>
         <configuration>
           <classpathScope>test</classpathScope>
-          <mainClass>src.main.java.main.Calculator</mainClass>
+          <mainClass>main.java.Calculator</mainClass>
         </configuration>
         <executions>
           <execution>
