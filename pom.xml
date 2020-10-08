@@ -19,7 +19,7 @@
         <version>2.12.4</version>
         <configuration>
             <includes>
-                <include>test1.java</include>
+                <include>test*.java</include>
             </includes>
         </configuration>
       </plugin>
